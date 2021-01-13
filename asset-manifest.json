@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/CatanMapGenerator/static/css/main.9a6ebcdb.chunk.css",
+    "main.js": "/CatanMapGenerator/static/js/main.70b2142f.chunk.js",
+    "main.js.map": "/CatanMapGenerator/static/js/main.70b2142f.chunk.js.map",
+    "runtime-main.js": "/CatanMapGenerator/static/js/runtime-main.68067ab8.js",
+    "runtime-main.js.map": "/CatanMapGenerator/static/js/runtime-main.68067ab8.js.map",
+    "static/js/2.11df3579.chunk.js": "/CatanMapGenerator/static/js/2.11df3579.chunk.js",
+    "static/js/2.11df3579.chunk.js.map": "/CatanMapGenerator/static/js/2.11df3579.chunk.js.map",
+    "static/js/3.42af8331.chunk.js": "/CatanMapGenerator/static/js/3.42af8331.chunk.js",
+    "static/js/3.42af8331.chunk.js.map": "/CatanMapGenerator/static/js/3.42af8331.chunk.js.map",
+    "index.html": "/CatanMapGenerator/index.html",
+    "static/css/main.9a6ebcdb.chunk.css.map": "/CatanMapGenerator/static/css/main.9a6ebcdb.chunk.css.map",
+    "static/js/2.11df3579.chunk.js.LICENSE.txt": "/CatanMapGenerator/static/js/2.11df3579.chunk.js.LICENSE.txt",
+    "static/media/0.7d6dd0e6.png": "/CatanMapGenerator/static/media/0.7d6dd0e6.png",
+    "static/media/1.4941a2d9.png": "/CatanMapGenerator/static/media/1.4941a2d9.png",
+    "static/media/2.d610138d.png": "/CatanMapGenerator/static/media/2.d610138d.png",
+    "static/media/3.aa9b9d6c.png": "/CatanMapGenerator/static/media/3.aa9b9d6c.png",
+    "static/media/4.8a7fbb31.png": "/CatanMapGenerator/static/media/4.8a7fbb31.png",
+    "static/media/5.8789a9ac.png": "/CatanMapGenerator/static/media/5.8789a9ac.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68067ab8.js",
+    "static/js/2.11df3579.chunk.js",
+    "static/css/main.9a6ebcdb.chunk.css",
+    "static/js/main.70b2142f.chunk.js"
+  ]
+}
