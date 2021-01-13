@@ -1,9 +1,9 @@
 import React, {useState, useEffect} from 'react';
 import './Terrain.css';
-import Wood from './Terrains/0.png'
-import Wool from './Terrains/1.png'
-
-import Clay from './Terrains/3.png'
+import Wood  from './Terrains/0.png'
+import Wool  from './Terrains/1.png'
+import Wheat from './Terrains/2.png'
+import Clay  from './Terrains/3.png'
 
 const Terrain = props => {
     const [image, setImage] = useState()
@@ -17,7 +17,7 @@ const Terrain = props => {
                 setImage(Wool)
                 break
             case 2:
-                setImage(Clay)
+                setImage(Wheat)
                 break
             case 3:
                 setImage(Clay)
