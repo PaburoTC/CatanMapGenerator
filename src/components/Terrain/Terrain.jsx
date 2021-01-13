@@ -4,7 +4,7 @@ import Wood  from './Terrains/0.png'
 import Wool  from './Terrains/1.png'
 import Wheat from './Terrains/2.png'
 import Clay  from './Terrains/3.png'
-
+import Stone from './Terrains/4.png'
 const Terrain = props => {
     const [image, setImage] = useState()
 
@@ -23,7 +23,7 @@ const Terrain = props => {
                 setImage(Clay)
                 break
             case 4:
-                setImage(Clay)
+                setImage(Stone)
                 break
             case 5:
                 setImage(Clay)
