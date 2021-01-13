@@ -1,6 +1,7 @@
 import React, {useState, useEffect} from 'react';
 import './Terrain.css';
 import Clay from './Terrains/3.png'
+import Wool from './Terrains/1.png'
 
 const Terrain = props => {
     const [image, setImage] = useState()
@@ -12,7 +13,7 @@ const Terrain = props => {
                 setImage(Clay)
                 break
             case 1:
-                setImage(Clay)
+                setImage(Wool)
                 break
             case 2:
                 setImage(Clay)
