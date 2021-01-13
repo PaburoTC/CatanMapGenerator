@@ -21,7 +21,8 @@ const Board = () =>{
         shuffle(terrains);
         shuffle(numbers);
         for(let i=0; i<19; i++){
-            board.push({'terrain':terrains[i], 'position':i, 'number':numbers[i]})
+            const terrain = terrains.pop()
+            board.push({'terrain':terrain, 'position':i, 'number':terrain === 5 ? '':numbers.pop()})
         }
         return board
     });
