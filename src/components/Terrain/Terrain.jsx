@@ -1,16 +1,17 @@
 import React, {useState, useEffect} from 'react';
 import './Terrain.css';
-import Clay from './Terrains/3.png'
+import Wood from './Terrains/0.png'
 import Wool from './Terrains/1.png'
+
+import Clay from './Terrains/3.png'
 
 const Terrain = props => {
     const [image, setImage] = useState()
 
-    // eslint-disable-next-line no-undef
     useEffect(()=>{
         switch (props.terrain){
             case 0:
-                setImage(Clay)
+                setImage(Wood)
                 break
             case 1:
                 setImage(Wool)
